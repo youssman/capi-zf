@@ -1,1 +1,3 @@
 # capi-zf
+My config to deploy ZF (v1) with capistrano 3
+More stuff soon ...
